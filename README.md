@@ -56,11 +56,3 @@ Inicie o servidor
 ```
 
     
-## Autores
-
-- [@woppedwoke](https://github.com/woppedwoke)
-
-
-## Referência
-
- - [Bagdex](https://bagdex.com.br/)
